@@ -1,0 +1,16 @@
+** Drc report for C:\Users\Richard\OneDrive - University of Illinois - Urbana\UIUC\Fall2022\ECE445\senior_design\senior_design.kicad_pcb **
+** Created on 2022-10-28 17:47:44 **
+
+** Found 2 DRC violations **
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(4.9846 in, 3.6700 in): Track [/3.3V] on B.Cu, length 0.0004 in
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning
+    @(4.0006 in, 2.4094 in): Track [/RST'] on F.Cu, length 0.0008 in
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
